@@ -2,8 +2,11 @@ import { Button } from '@mui/material'
 import React, { useState } from 'react'
 import './Banner.css'
 import Search from './Search';
+// import {useHistory} from 'react-router-dom';
 function Banner() {
+ 
     const [showSearch,setShowSearch] =useState(true);
+    // const history=useHistory();
     return (
     <div className="banner">
          <div className="banner-search">
