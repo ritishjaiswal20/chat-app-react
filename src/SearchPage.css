@@ -1,0 +1,17 @@
+.searchpage-info{
+ padding:40px;
+}
+.searchpage-info > p{
+ margin-bottom:10px;
+ font-size:14px;
+}
+.searchpage-info >h1{
+    margin-bottom:20px;
+}
+.searchpage-info >button{
+    border-radius:30px;
+    text-transform:inherit;
+    margin:5px;
+    color:black;
+    border:1px solid black;
+}

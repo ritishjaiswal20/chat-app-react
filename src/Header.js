@@ -8,7 +8,7 @@ import { Avatar } from '@mui/material';
 function Header() {
   return (
     <div className="header">
-        <img className="header-icon" src="https://blog.logomyway.com/wp-content/uploads/2020/03/arbnb-logo.jpg" alt="logo"/>
+        <img className="header-icon" src="https://cdn.dribbble.com/users/1937292/screenshots/6962478/video-1565151647.gif" alt="logo"/>
         
         <div className="header-center">
           <input type="text"/>
